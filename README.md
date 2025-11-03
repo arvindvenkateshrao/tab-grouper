@@ -8,6 +8,7 @@ Google's tab grouping feature is convienient for organizing tabs in a single win
 - You have to manually drag each tab into a group
 - Inconvienient for organizing multiple related tabs together
 - Open to accidentally mixing tabs into groups that you didn't intend to put this into.
+
 So I wanted to create an extension that would automate this process (with some customization) so I could better manage my online class work.
 
 ### Key Capabilities
