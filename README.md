@@ -15,7 +15,7 @@ So I wanted to create an extension that would automate this process (with some c
 - Group a contiguous block of tabs to the right of the active tab  
 - Assign a custom **name** and **color** to the new group  
 - Simple popup UI for quick configuration  
-- Non-disruptive — only affects tabs to the right of your current tab  
+- Does not interfere with pre-existing groups when grouping tabs 
 
 ---
 
