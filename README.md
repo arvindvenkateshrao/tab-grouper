@@ -1,7 +1,5 @@
 # Tab-Grouper  
 
-![Tab-Grouper Screenshot](images/readMEicon.png)
-
 ## 🚀 What It Does  
 **Tab-Grouper** is a lightweight Chrome extension that helps you keep your workspace organized by grouping multiple tabs to the right of the current one — all in a single click.  
 
